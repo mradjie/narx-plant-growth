@@ -1,5 +1,5 @@
 # About narx-plant-growth
-The script is used for training the dynamic modeling of response of plant growth to root zone temperature in hydroponic chili pepper plant using NARX Neural Networks 
+Program Script for Modeling the Dynamic Response of Plant Growth to Root Zone Temperature in Hydroponic Chili Pepper Plant using Neural Network 
 
 # System Requirements
 - Matlab® R2019a and later
